@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Martin Stoffers</title>
+    <link>https://martinstoffers.de/project/</link>
+      <atom:link href="https://martinstoffers.de/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://martinstoffers.de/project/</link>
+    </image>
+    
+    <item>
+      <title>Awesome Research Software Engineering</title>
+      <link>https://martinstoffers.de/project/awesomelists/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/awesomelists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BACARDI</title>
+      <link>https://martinstoffers.de/project/bacardi/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/bacardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EVENTPHONE</title>
+      <link>https://martinstoffers.de/project/eventphone/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/eventphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIFIS</title>
+      <link>https://martinstoffers.de/project/hifis/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/hifis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shownotes</title>
+      <link>https://martinstoffers.de/project/shownotes/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/shownotes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

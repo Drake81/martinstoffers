@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Martin Stoffers</title>
+    <link>https://martinstoffers.de/publication/</link>
+      <atom:link href="https://martinstoffers.de/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://martinstoffers.de/publication/</link>
+    </image>
+    
+    <item>
+      <title>Roles in Research Software Engineering (RSE) Consultancies</title>
+      <link>https://martinstoffers.de/publication/hauptstoffers2021/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/hauptstoffers2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BACARDI: A System to track Space Debris</title>
+      <link>https://martinstoffers.de/publication/stoffersmeinelweigel2019/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffersmeinelweigel2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Provenance Recording using a blockchain-like database</title>
+      <link>https://martinstoffers.de/publication/stoffers2017/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffers2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

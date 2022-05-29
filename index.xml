@@ -5,12 +5,84 @@
     <link>https://martinstoffers.de/</link>
       <atom:link href="https://martinstoffers.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Stoffers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>Martin Stoffers</title>
       <link>https://martinstoffers.de/</link>
     </image>
+    
+    <item>
+      <title>Awesome Research Software Engineering</title>
+      <link>https://martinstoffers.de/project/awesomelists/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/awesomelists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BACARDI</title>
+      <link>https://martinstoffers.de/project/bacardi/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/bacardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EVENTPHONE</title>
+      <link>https://martinstoffers.de/project/eventphone/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/eventphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIFIS</title>
+      <link>https://martinstoffers.de/project/hifis/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/hifis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shownotes</title>
+      <link>https://martinstoffers.de/project/shownotes/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/shownotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles in Research Software Engineering (RSE) Consultancies</title>
+      <link>https://martinstoffers.de/publication/hauptstoffers2021/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/hauptstoffers2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source im BACARDI Projekt</title>
+      <link>https://martinstoffers.de/talk/open-source-im-bacardi-projekt/</link>
+      <pubDate>Sat, 10 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/open-source-im-bacardi-projekt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BACARDI: A System to track Space Debris</title>
+      <link>https://martinstoffers.de/publication/stoffersmeinelweigel2019/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffersmeinelweigel2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Provenance Recording using a blockchain-like database</title>
+      <link>https://martinstoffers.de/publication/stoffers2017/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffers2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
