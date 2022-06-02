@@ -5,12 +5,20 @@
     <link>https://martinstoffers.de/event/</link>
       <atom:link href="https://martinstoffers.de/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://martinstoffers.de/event/</link>
     </image>
+    
+    <item>
+      <title>Effective Software Tests (with Python)</title>
+      <link>https://martinstoffers.de/talk/effective-software-tests-with-python/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/effective-software-tests-with-python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open Source im BACARDI Projekt</title>
