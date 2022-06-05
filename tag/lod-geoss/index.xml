@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LOD-GEOSS | Martin Stoffers</title>
+    <link>https://martinstoffers.de/tag/lod-geoss/</link>
+      <atom:link href="https://martinstoffers.de/tag/lod-geoss/index.xml" rel="self" type="application/rss+xml" />
+    <description>LOD-GEOSS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
+      <title>LOD-GEOSS</title>
+      <link>https://martinstoffers.de/tag/lod-geoss/</link>
+    </image>
+    
+    <item>
+      <title>LOD-GEOSS</title>
+      <link>https://martinstoffers.de/project/lodgeoss/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/lodgeoss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -53,10 +53,26 @@
     </item>
     
     <item>
+      <title>LOD-GEOSS</title>
+      <link>https://martinstoffers.de/project/lodgeoss/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/project/lodgeoss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shownotes</title>
       <link>https://martinstoffers.de/project/shownotes/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://martinstoffers.de/project/shownotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance based software dashboards</title>
+      <link>https://martinstoffers.de/publication/kurnatowskistoffershaupt2021/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/kurnatowskistoffershaupt2021/</guid>
       <description></description>
     </item>
     
@@ -73,6 +89,38 @@
       <link>https://martinstoffers.de/publication/hauptstoffers2021/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://martinstoffers.de/publication/hauptstoffers2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated, Provenance-Driven Security Audit for git-Based Repositories</title>
+      <link>https://martinstoffers.de/talk/automated-provenance-driven-security-audit-for-git-based-repositories/</link>
+      <pubDate>Tue, 05 Oct 2021 12:30:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/automated-provenance-driven-security-audit-for-git-based-repositories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Software Engineering: Mining Repositories to gain insights into BACARDI</title>
+      <link>https://martinstoffers.de/publication/kurnatowskistofferweigeletal2020/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/kurnatowskistofferweigeletal2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Infrastructure for Energy System Models</title>
+      <link>https://martinstoffers.de/publication/hoyerklickfreygardianetal2020/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/hoyerklickfreygardianetal2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMARTnet™ and BACARDI</title>
+      <link>https://martinstoffers.de/publication/fiedlerherzoghofmann2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/fiedlerherzoghofmann2019/</guid>
       <description></description>
     </item>
     

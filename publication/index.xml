@@ -5,12 +5,20 @@
     <link>https://martinstoffers.de/publication/</link>
       <atom:link href="https://martinstoffers.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://martinstoffers.de/publication/</link>
     </image>
+    
+    <item>
+      <title>Provenance based software dashboards</title>
+      <link>https://martinstoffers.de/publication/kurnatowskistoffershaupt2021/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/kurnatowskistoffershaupt2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recap: Workshop Let&#39;s talk FAIR for research software at SE2022</title>
@@ -25,6 +33,30 @@
       <link>https://martinstoffers.de/publication/hauptstoffers2021/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://martinstoffers.de/publication/hauptstoffers2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Software Engineering: Mining Repositories to gain insights into BACARDI</title>
+      <link>https://martinstoffers.de/publication/kurnatowskistofferweigeletal2020/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/kurnatowskistofferweigeletal2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Infrastructure for Energy System Models</title>
+      <link>https://martinstoffers.de/publication/hoyerklickfreygardianetal2020/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/hoyerklickfreygardianetal2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMARTnet™ and BACARDI</title>
+      <link>https://martinstoffers.de/publication/fiedlerherzoghofmann2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/fiedlerherzoghofmann2019/</guid>
       <description></description>
     </item>
     
