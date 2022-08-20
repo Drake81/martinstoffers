@@ -5,12 +5,28 @@
     <link>https://martinstoffers.de/tag/provenance/</link>
       <atom:link href="https://martinstoffers.de/tag/provenance/index.xml" rel="self" type="application/rss+xml" />
     <description>provenance</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>provenance</title>
       <link>https://martinstoffers.de/tag/provenance/</link>
     </image>
+    
+    <item>
+      <title>Towards Specificationless Monitoring of Provenance-Emitting Systems</title>
+      <link>https://martinstoffers.de/talk/towards-specificationless-monitoring-of-provenance-emitting-systems/</link>
+      <pubDate>Wed, 28 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/towards-specificationless-monitoring-of-provenance-emitting-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Use Case Study on provenance-based Data Assessments for Mission Critical Software Systems</title>
+      <link>https://martinstoffers.de/talk/a-use-case-study-on-provenance-based-data-assessments-for-mission-critical-software-systems/</link>
+      <pubDate>Sun, 18 Sep 2022 16:15:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/a-use-case-study-on-provenance-based-data-assessments-for-mission-critical-software-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trustworthy Provenance Recording using a blockchain-like database</title>

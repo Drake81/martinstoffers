@@ -5,12 +5,28 @@
     <link>https://martinstoffers.de/tag/rse/</link>
       <atom:link href="https://martinstoffers.de/tag/rse/index.xml" rel="self" type="application/rss+xml" />
     <description>RSE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>RSE</title>
       <link>https://martinstoffers.de/tag/rse/</link>
     </image>
+    
+    <item>
+      <title>Revisiting Secure Software Engineering for Research Software</title>
+      <link>https://martinstoffers.de/talk/revisiting-secure-software-engineering-for-research-software/</link>
+      <pubDate>Tue, 06 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/revisiting-secure-software-engineering-for-research-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Provenance-Awareness into the Space Debris Processing System BACARDI</title>
+      <link>https://martinstoffers.de/publication/stoffersmeinelhofmanschreiber2022/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffersmeinelhofmanschreiber2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Awesome Research Software Engineering</title>

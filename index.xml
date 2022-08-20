@@ -5,12 +5,44 @@
     <link>https://martinstoffers.de/</link>
       <atom:link href="https://martinstoffers.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Stoffers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>Martin Stoffers</title>
       <link>https://martinstoffers.de/</link>
     </image>
+    
+    <item>
+      <title>Towards Specificationless Monitoring of Provenance-Emitting Systems</title>
+      <link>https://martinstoffers.de/talk/towards-specificationless-monitoring-of-provenance-emitting-systems/</link>
+      <pubDate>Wed, 28 Sep 2022 09:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/towards-specificationless-monitoring-of-provenance-emitting-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Use Case Study on provenance-based Data Assessments for Mission Critical Software Systems</title>
+      <link>https://martinstoffers.de/talk/a-use-case-study-on-provenance-based-data-assessments-for-mission-critical-software-systems/</link>
+      <pubDate>Sun, 18 Sep 2022 16:15:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/a-use-case-study-on-provenance-based-data-assessments-for-mission-critical-software-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Secure Software Engineering for Research Software</title>
+      <link>https://martinstoffers.de/talk/revisiting-secure-software-engineering-for-research-software/</link>
+      <pubDate>Tue, 06 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/talk/revisiting-secure-software-engineering-for-research-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Provenance-Awareness into the Space Debris Processing System BACARDI</title>
+      <link>https://martinstoffers.de/publication/stoffersmeinelhofmanschreiber2022/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffersmeinelhofmanschreiber2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Awesome Research Software Engineering</title>
