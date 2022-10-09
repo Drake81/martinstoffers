@@ -5,7 +5,7 @@
     <link>https://martinstoffers.de/publication/</link>
       <atom:link href="https://martinstoffers.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Towards Specificationless Monitoring of Provenance-Emitting Systems</title>
+      <link>https://martinstoffers.de/publication/stoffersweinert2022/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffersweinert2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Integrating Provenance-Awareness into the Space Debris Processing System BACARDI</title>
-      <link>https://martinstoffers.de/publication/stoffersmeinelhofmanschreiber2022/</link>
+      <link>https://martinstoffers.de/publication/stoffersmeinelhofman2022/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://martinstoffers.de/publication/stoffersmeinelhofmanschreiber2022/</guid>
+      <guid>https://martinstoffers.de/publication/stoffersmeinelhofman2022/</guid>
       <description></description>
     </item>
     
