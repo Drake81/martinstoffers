@@ -5,12 +5,20 @@
     <link>https://martinstoffers.de/publication-type/1/</link>
       <atom:link href="https://martinstoffers.de/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinstoffers.de/media/icon_huc341b6a338ad9b324155b5ceeeee44fd_203674_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://martinstoffers.de/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Use Case Study on provenance-based Data Assessments for Mission Critical Software Systems</title>
+      <link>https://martinstoffers.de/publication/stoffersmeinelhofman2022b/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinstoffers.de/publication/stoffersmeinelhofman2022b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Specificationless Monitoring of Provenance-Emitting Systems</title>
